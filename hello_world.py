@@ -1,5 +1,4 @@
 #! /usr/bin/env python
-print("Welcome to this world.")
-print("yoyoyo")
+print("Welcome to this world. yoyoyoyoyo")
 
-"""this says hello to the world"""
+
